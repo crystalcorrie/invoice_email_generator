@@ -9,3 +9,4 @@ Push your email to send invoice to your customers
 5. Edit the trigger_date in script <- can be set up to trigger daily
 6. this script will send email from the email you input to the recipient email in the BP file
 
+#### I have added 2 sample PDF invoice in this project. They're named with F- in front
